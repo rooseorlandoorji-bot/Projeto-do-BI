@@ -17,3 +17,5 @@ Este projeto utiliza dados públicos sobre feminicídio no Brasil:
 (https://www.ibge.gov.br/estatisticas/sociais/populacao.html)
 
 [Agência Brasil] (https://agenciabrasil.ebc.com.br/direitos-humanos/noticia/2026-03/mulheres-negras-sao-maioria-das-vitimas-de-feminicidio-no-pais?)
+
+[Data Senado] (https://www12.senado.leg.br/institucional/datasenado?utm_)
